@@ -138,7 +138,8 @@
 └── [★ VISUAL LAB] komorebi-studio/
     ├── TYPE        : Neural Line Forge & Aesthetic Wallpaper Showcase
     ├── STACK       : React, Canvas Filters, Procedural Generative Art
-    └── OVERVIEW    : High-definition anime wallpapers, line art & lockscreen showcase.
+    ├── OVERVIEW    : High-definition anime wallpapers, line art & lockscreen showcase.
+    └── LIVE UPLINK : https://komorebi-studio-teal.vercel.app
 ```
 
 ---
