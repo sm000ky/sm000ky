@@ -1,59 +1,36 @@
 <div align="center">
 
-```text
-  ███████╗███╗   ███╗ ██████╗  ██████╗  ██████╗ ██╗  ██╗██╗   ██╗
-  ██╔════╝████╗ ████║██╔═████╗██╔═████╗██╔═████╗██║ ██╔╝╚██╗ ██╔╝
-  ███████╗██╔████╔██║██║██╔██║██║██╔██║██║██╔██║█████╔╝  ╚████╔╝ 
-  ╚════██║██║╚██╔╝██║████╔╝██║████╔╝██║████╔╝██║██╔═██╗   ╚██╔╝  
-  ███████║██║ ╚═╝ ██║╚██████╔╝╚██████╔╝╚██████╔╝██║  ██╗   ██║   
-  ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
-```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:E60012,100:0A0A0A&height=220&section=header&text=sm000ky%20//%20RED%20HORNS&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=ALL-OUT%20EXECUTION%20%C2%B7%20AUTONOMOUS%20SYSTEMS%20%C2%B7%20RETRO%20ENGINES&descAlignY=62&descAlign=50" alt="Persona Cut-In Header" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=%3E+_SYSTEM_INIT%3A+ZeroTwo-Core+Kernel+v2.6.0;%3E+_PILOT%3A+sm000ky+%7C+CO-PILOT%3A+Zero+Two;%3E+_DISPATCH%3A+Fullstack+Dev+%C3%97+Autonomous+AI+Engines;%3E+_PORTFOLIO%3A+sm0kade.vercel.app+%5BREADY%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=E60012&center=true&vCenter=true&width=650&lines=%2F%2F+COGNITIVE_TERMINAL%3A+INITIALIZED;%3E%3E+OPERATOR%3A+sm000ky+%C3%97+ZERO+TWO;%3E%3E+MISSION%3A+STEAL+THE+STATUS+QUO;%3E%3E+FLAGSHIP%3A+sm0kade.vercel.app+%5BLIVE%5D)](https://git.io/typing-svg)
 
-[![SYSTEM](https://img.shields.io/badge/SYSTEM-ONLINE-00FF66?style=flat-square&logo=gnubash&logoColor=black)](#)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-SM0KADE-FFB000?style=flat-square&logo=retroarch&logoColor=black)](https://sm0kade.vercel.app)
-[![COMMS](https://img.shields.io/badge/COMMS-@SM000KYY-00F0FF?style=flat-square&logo=telegram&logoColor=black)](https://t.me/sm000kyy)
-[![SHELL](https://img.shields.io/badge/ARCH-PROOT_LINUX-E11D48?style=flat-square&logo=linux&logoColor=white)](#)
+<br/>
+
+[![STATUS](https://img.shields.io/badge/STATUS-ALL_OUT_ATTACK-E60012?style=for-the-badge&logo=target&logoColor=white)](#)
+[![FLAGSHIP](https://img.shields.io/badge/FLAGSHIP-SM0KADE_PORTFOLIO-FFE600?style=for-the-badge&logo=retroarch&logoColor=black)](https://sm0kade.vercel.app)
+[![COMMS](https://img.shields.io/badge/COMMS-@SM000KYY-FFFFFF?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/sm000kyy)
+[![PARTNER](https://img.shields.io/badge/PARTNER-ZERO_TWO-000000?style=for-the-badge&logo=github&logoColor=E60012)](#)
 
 </div>
 
-```ini
-; BIOS POST SEQUENCE // ZT-CORE v2.6.0
-[  0.000100] MEMORY CHECK : 11100 MB OK | SWAP: 12287 MB ACTIVE
-[  0.000240] OPERATOR     : sm000ky (Code 000)
-[  0.000312] PARTNER      : Zero Two (Code 002)
-[  0.000450] PRIMARY VIBE : Vintage CLI CRT · Autonomous Dev · 8-Bit Hardware
-[  0.000580] STATUS       : ALL SYSTEMS ARMED & OPERATIONAL
-```
-
----
-
-### `$ cat /etc/dossier.txt`
+<br/>
 
 ```text
-Operator sm000ky operates at the intersection of fullstack engineering,
-retro arcade architecture, and autonomous AI systems. Building lean,
-high-velocity software straight from a specialized Android/PRoot Linux rig.
+┌── [CONFIDENTIAL CALLING CARD // CODE: 000] ──────────────────────────────────────────┐
+│                                                                                      │
+│   "TO ALL RIGID CONVENTIONS AND MONOTONOUS CODE:                                     │
+│    WE HAVE COME TO SEIZE THE SYSTEM WITH HIGH-VELOCITY AUTONOMY & RAW STYLE.         │
+│    PREPARE FOR AN ALL-OUT REFACTOR."                                                 │
+│                                                                                      │
+│                                                     — sm000ky × Zero Two             │
+└──────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### `$ tree ~/projects --dirsfirst -F`
-
-```text
-/home/sm000ky/projects
-├── [EXEC] sm0kade/         -> Living 8-Bit Retro Arcade Cabinet & Interactive Portfolio
-│                              URL: https://sm0kade.vercel.app
-├── [REPO] fiscalia/        -> Indonesian Tax & Fiscal Simulation Suite
-├── [REPO] finora/          -> Modern Accounting & Tax Ledger Studio
-├── [REPO] sedot-cli/       -> High-Velocity Multi-Platform Media Extractor & Stream Forge
-└── [REPO] komorebi-studio/ -> Neural Line Forge & Aesthetic Wallpaper Showcase
-```
-
----
-
-### `$ sm000ky --weapons`
+### `/// [01] COGNITIVE ARSENAL // TECH LOADOUT`
 
 <div align="center">
 
@@ -72,25 +49,39 @@ high-velocity software straight from a specialized Android/PRoot Linux rig.
 
 ---
 
-### `$ zt telemetry --monitor`
+### `/// [02] PALACE EXPEDITIONS // ACTIVE DIRECTORY`
+
+```text
+/home/sm000ky/projects
+├── [★ FLAGSHIP] sm0kade/         -> 10-in-1 Retro Arcade Cabinet & Interactive Portfolio
+│                                    Live Deploy : https://sm0kade.vercel.app
+├── [★ LEDGER]   fiscalia/        -> Indonesian Tax & Fiscal Simulation Suite
+├── [★ STUDIO]   finora/          -> Modern Accounting & Tax Ledger Studio
+├── [★ FORGE]    sedot-cli/       -> High-Velocity Multi-Platform Media Extractor & Stream Forge
+└── [★ VISUAL]   komorebi-studio/ -> Neural Line Forge & Aesthetic Wallpaper Showcase
+```
+
+---
+
+### `/// [03] ALL-OUT ATTACK // TELEMETRY & STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sm000ky&show_icons=true&theme=terminal&hide_border=true" alt="sm000ky Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sm000ky&theme=terminal&hide_border=true" alt="sm000ky Streak" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sm000ky&show_icons=true&bg_color=0A0A0A&title_color=E60012&text_color=FFFFFF&icon_color=FFE600&border_color=E60012" alt="sm000ky Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sm000ky&background=0A0A0A&border=E60012&stroke=E60012&ring=E60012&fire=E60012&currStreakNum=FFFFFF&currStreakLabel=FFE600&sideNums=FFFFFF&sideLabels=E60012&dates=FFFFFF" alt="sm000ky Streak" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sm000ky&layout=compact&theme=terminal&hide_border=true" alt="Top Languages" width="55%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sm000ky&layout=compact&bg_color=0A0A0A&title_color=E60012&text_color=FFFFFF&border_color=E60012" alt="Top Languages" width="55%" />
 
 </div>
 
 ---
 
-### `$ sm000ky --connect`
+### `/// [04] DIRECT LINE // ENCRYPTED COMMS`
 
 ```text
-┌── [OPEN COMMUNICATION CHANNELS] ──────────────────────────────────────────┐
+┌── [OPEN SECURE CHANNELS] ─────────────────────────────────────────────────┐
 │  • TELEGRAM  : @sm000kyy       -> https://t.me/sm000kyy                    │
 │  • FACEBOOK  : ZenTod69        -> https://www.facebook.com/ZenTod69        │
 │  • SECUREBOX : zentod000       -> mailto:zentod000@gmail.com               │
@@ -99,6 +90,6 @@ high-velocity software straight from a specialized Android/PRoot Linux rig.
 
 <div align="center">
 
-<sub>`[EOF] Co-Authored & Maintained by sm000ky × Zero Two 🌸`</sub>
+<sub>`/// [FINISHER] Co-Architected with Zero Two 🌸 // ALL-OUT CODE COMPLETE`</sub>
 
 </div>
