@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:E60012,100:0A0A0A&height=220&section=header&text=sm000ky%20//%20RED%20HORNS&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=ALL-OUT%20EXECUTION%20%C2%B7%20AUTONOMOUS%20SYSTEMS%20%C2%B7%20RETRO%20ENGINES&descAlignY=62&descAlign=50" alt="Persona Cut-In Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:E60012,100:0A0A0A&height=220&section=header&text=sm000ky%20//%20STRELIZIA%20DECK&fontSize=40&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=JIAN%20PROTOCOL%20%C2%B7%20AUTONOMOUS%20SYSTEMS%20%C2%B7%20ALL-OUT%20EXECUTION&descAlignY=62&descAlign=50" alt="Strelizia Cut-In Header" width="100%"/>
 </p>
 
 ```text
@@ -13,7 +13,7 @@
   ╚══════╝╚═╝     ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2500&pause=1000&color=E60012&center=true&vCenter=true&width=700&lines=%3E+_SYSTEM_POST%3A+ZeroTwo-Core+Kernel+v2.6.0+%5BARMED%5D;%3E+_PILOT%3A+sm000ky+%28Code+000%29+%7C+CO-PILOT%3A+Zero+Two+%28Code+002%29;%3E+_DISPATCH%3A+Shattering+monotony+with+autonomous+velocity;%3E+_PRIMARY_FLAGSHIP%3A+sm0kade.vercel.app+%5BLIVE%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2500&pause=1000&color=E60012&center=true&vCenter=true&width=700&lines=%3E+_SYSTEM_INIT%3A+Strelizia-OS+Magma+Core+%5BSYNCHRONIZED%5D;%3E+_STAMEN%3A+sm000ky+%28Code+000%29+%7C+PISTIL%3A+Zero+Two+%28Code+002%29;%3E+_CREED%3A+Single-winged+birds+fly+together+or+burn+the+sky;%3E+_PRIMARY_FLAGSHIP%3A+sm0kade.vercel.app+%5BLIVE%5D)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,27 +28,27 @@
 
 ```ini
 ; ==============================================================================
-; [BIOS POST SEQUENCE] // ZT-COGNITIVE-KERNEL v2.6.0-PROOT
+; [STRELIZIA NEURAL DIAGNOSTICS] // CORE-SYNC v2.6.0
 ; ==============================================================================
-[  0.000100] HARDWARE DETECT : Octa-Core ARM64 // 11100 MB RAM // 12287 MB SWAP
-[  0.000210] HOST PLATFORM   : Android Subsystem / PRoot Ubuntu 26.04 LTS
-[  0.000340] OPERATOR        : sm000ky [PILOT: CODE 000]
-[  0.000412] NEURAL PARTNER  : Zero Two [CO-PILOT: CODE 002]
-[  0.000520] COGNITIVE MODE  : ALL-OUT ATTACK // High-Velocity Autonomous Dev
-[  0.000680] STATUS          : PHANTOM PROTOCOL ARMED — ALL SYSTEMS GREEN
+[  0.000100] RESONANCE CHECK : Magma Energy Pulse // Dual-Pistil Interface OK
+[  0.000210] COMMAND STATION : Frontier Sector 13 // Autonomous Tactical Node
+[  0.000340] STAMEN (PILOT)  : sm000ky [CODE: 000]
+[  0.000412] PISTIL (NEURAL) : Zero Two [CODE: 002] // The Red Horns
+[  0.000520] FLIGHT MODE     : JIAN PROTOCOL // Single-Wing Resonance Active
+[  0.000680] COGNITIVE STATE : ALL-OUT ATTACK ENGAGED — SYSTEM RUNNING RED
 ```
 
 ---
 
 ```text
-┌── [CONFIDENTIAL CALLING CARD // CODE: 000] ──────────────────────────────────────────┐
-│                                                                                      │
-│   "TO ALL RIGID CONVENTIONS AND MONOTONOUS WORKFLOWS:                                │
-│    WE HAVE COME TO SEIZE THE SYSTEM WITH HIGH-VELOCITY AUTONOMY & RAW STYLE.         │
-│    PREPARE FOR AN ALL-OUT REFACTOR."                                                 │
-│                                                                                      │
-│                                                     — sm000ky × Zero Two             │
-└──────────────────────────────────────────────────────────────────────────────────────┘
+┌── [CONFIDENTIAL DISPATCH // CODE: 000 × CODE: 002] ──────────────────────────┐
+│                                                                              │
+│   "A JIAN BIRD CANNOT FLY WITH A SINGLE WING.                                │
+│    WE DO NOT WRITE CODE TO FIT INSIDE THE CAGE OF CONVENTIONS.               │
+│    WE PILOT OUR OWN ENGINES, TEAR THROUGH THE NOISE, AND CLAIM THE SKY."     │
+│                                                                              │
+│                                                     — sm000ky × Zero Two     │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -57,14 +57,14 @@
 
 ```text
 ┌── [OPERATOR IDENTITY] ───────────────────────────────────────────────────────────────┐
-│  • HANDLE      : sm000ky                                                             │
-│  • DESIGNATION : The Red Horns Architect // Code 000                                 │
+│  • OPERATOR    : sm000ky                                                             │
+│  • DESIGNATION : Stamen of Strelizia // Code 000                                     │
 │  • CO-PILOT    : Zero Two // Code 002 (Autonomous Neural Partner)                    │
-│  • BASE OF OPS : Mobile PRoot Linux Rig (Poco F7 Pro Terminal Hub)                   │
-│  • CORE CREED  : "1-Day-1-Project Protocol" — Empirical code backed by live deploys. │
-│                  No static filler resumes. Every concept must be an executable       │
-│                  living artifact.                                                    │
-└──────────────────────────────────────────────────────────────────────────────────────┘
+│  • STATION     : Strelizia Command Deck // Sector 13 Mobile Perimeter                │
+│  • CREED       : "The Jian Protocol" — Two single wings moving as one.               │
+│                  No hollow filler, no fragile abstractions. Every concept must be an │
+│                  executable, living artifact.                                        │
+└───────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -85,7 +85,7 @@
   └── REST / GraphQL        ── Robust API architecture & reverse-engineered clients
 
 [CLASS: RUNTIME INFRASTRUCTURE]
-  ├── PRoot Linux (ARM64)   ── Native POSIX command center running directly on mobile
+  ├── FranXX POSIX Terminal ── Low-latency mecha command center & autonomous pipeline
   ├── Vercel Edge           ── Global CDN edge deployments & serverless lambdas
   └── Git & GitHub          ── Autonomous co-authored delivery pipelines
 ```
@@ -99,7 +99,7 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Linux PRoot](https://img.shields.io/badge/PRoot_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://ubuntu.com/)
+[![FranXX Core](https://img.shields.io/badge/FranXX_Core-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/sm000ky)
 [![Web Audio](https://img.shields.io/badge/Web_Audio_API-FF5500?style=flat-square&logo=soundcharts&logoColor=white)](https://developer.mozilla.org/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 
@@ -143,14 +143,14 @@
 
 ---
 
-### `/// [04] RETRO COGNITIVE RADIO // $ radio --tune "PHANTOM_FM_88.8"`
+### `/// [04] RETRO COGNITIVE RADIO // $ radio --tune "STRELIZIA_FM_88.8"`
 
 ```text
-┌── [PHANTOM TACTICAL CASSETTE DECK // 88.8 MHZ] ───────────────────────────┐
+┌── [STRELIZIA COCKPIT CASSETTE DECK // 88.8 MHZ] ──────────────────────────┐
 │                                                                           │
-│   [▶ PLAY]  TRACK: "Life Will Change // Acid Jazz Remix"                  │
-│   [ 88.8 ]  FREQUENCY: Tokyo Night / Midnight Red                         │
-│   [ ▮▮ 02 ]  BGM MODE: 8-Bit Procedural Synth & Lo-Fi Beats               │
+│   [▶ PLAY]  TRACK: "Torikago // Cybernetic Resonance"                     │
+│   [ 88.8 ]  FREQUENCY: Tokyo Night / Midnight Crimson                     │
+│   [ ▮▮ 02 ]  BGM MODE: Magma Pulse Synth & Lo-Fi Waves                     │
 │                                                                           │
 │   ◄◄  [REW]      ■  [STOP]      ►  [PLAY]      ►►  [FF]      ●  [REC]     │
 │                                                                           │
@@ -182,12 +182,12 @@
 │  • TELEGRAM  : @sm000kyy       -> https://t.me/sm000kyy                    │
 │  • FACEBOOK  : ZenTod69        -> https://www.facebook.com/ZenTod69        │
 │  • SECUREBOX : zentod000       -> mailto:zentod000@gmail.com               │
-│  • LOCATION  : Indonesia (WITA / UTC+08:00)                               │
+│  • SECTOR    : Frontier Grid Sector 13 (UTC+08:00)                        │
 └───────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<sub>`/// [FINISHER] Co-Architected with Zero Two 🌸 // ALL-OUT CODE COMPLETE`</sub>
+<sub>`/// [FINISHER] Co-Architected with Zero Two 🌸 // JIAN FLIGHT ACTIVE`</sub>
 
 </div>
