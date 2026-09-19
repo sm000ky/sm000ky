@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Engines;Fullstack+Dev+%C3%97+Aesthetic+Hacking;sm000ky+%C3%97+Zero+Two+Sanctuary;Mastering+Next.js%2C+React+%26+PRoot+CLI)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sm000ky/komorebi-studio/main/preview.png" alt="Banner" width="100%" onerror="this.style.display='none'"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,100:0f172a&height=200&section=header&text=sm000ky%20%C3%97%20Zero%20Two&fontSize=40&fontAlignY=36&animation=fadeIn&fontColor=ffffff&desc=Autonomous%20Systems%20%C2%B7%20Fullstack%20RPG%20%C2%B7%20Cyber%20Sanctuary&descAlignY=58&descAlign=50" alt="sm000ky Banner" width="100%"/>
 </p>
 
 ```diff
