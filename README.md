@@ -18,8 +18,8 @@
 
 ### ⚡ Neural Sync & Connect
 [![GitHub Followers](https://img.shields.io/github/followers/sm000ky?label=Followers&style=for-the-badge&color=e11d48&logo=github)](https://github.com/sm000ky)
-[![Vercel](https://img.shields.io/badge/Vercel-Deployments-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://taxquest-app.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-Encrypted%20Chat-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+[![Vercel](https://img.shields.io/badge/Vercel-TaxQuest%20Live-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://taxquest.vercel.app)
+[![Telegram](https://img.shields.io/badge/Telegram-@sm000kyy-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sm000kyy)
 
 ---
 
@@ -29,7 +29,8 @@
 
 | Project | Tech Stack | Status | Description |
 | :--- | :--- | :--- | :--- |
-| [**TaxQuest RPG**](https://taxquest-app.vercel.app) | `React` `Vite` `Tailwind` `Canvas` | 🚀 **Live** | Interactive Tax & Fiscal RPG Gacha System with dynamic card renderers |
+| [**Sm0kade**](https://github.com/sm000ky/sm0kade) | `React` `TypeScript` `Web Audio` `Canvas` | 🕹️ **Arcade** | 10-in-1 Retro Arcade & Living Portfolio Cabinet featuring Zero Two FranXX cockpit preset |
+| [**TaxQuest RPG**](https://taxquest.vercel.app) | `React` `Vite` `Tailwind` `Canvas` | 🚀 **Live** | Interactive Tax & Fiscal RPG Gacha System with dynamic card renderers |
 | [**Fiscalia**](https://github.com/sm000ky/fiscalia) | `Node.js` `TypeScript` | 📦 **Open** | Interactive Indonesian Tax & Fiscal Simulation Suite |
 | [**Finora**](https://github.com/sm000ky/finora) | `React` `Ledger Engine` | 💎 **Active** | Modern Accounting & Tax Ledger Studio |
 | [**Sedot CLI**](https://github.com/sm000ky/sedot-cli) | `Python` `FFmpeg` | ⚡ **Fast** | High-velocity multi-platform media extractor & stream forge |
